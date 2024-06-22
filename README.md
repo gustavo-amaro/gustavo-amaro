@@ -27,5 +27,5 @@
 </ul>
 <br />
 <p>
-    🌱 Estudando: <strong>Atualmente me aprofundando em desenvolvimento orientado à testes com phpunit.</strong>
+    🌱 Estudando: <strong>Atualmente estudando redes neurais artificiais.</strong>
 </p>
